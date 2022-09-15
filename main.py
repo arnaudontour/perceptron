@@ -36,6 +36,6 @@ class perceptron :
 
 p = perceptron(2,1)
 print(p.weight)
-p.train([1,2],-1)
+p.train([5,2],1)
 print(p.weight)
-  j
+e
